@@ -45,6 +45,15 @@
 ##
    1. Fiz esse priemiro teste com imagens extraidas do site: https://br.freepik.com/fotos-vetores-gratis/rosto pois são imagens publicas;
    2. fiz download de três imagens e adicionei a pasta inputs;
+      ##
+      ![image](https://github.com/vinicius-campelo/lab2-ia900/assets/74797865/ecc666ef-f72e-410c-8d7a-8bc78a4290a9)
+      ##
+      ![image](https://github.com/vinicius-campelo/lab2-ia900/assets/74797865/12bc8f0b-c184-4ae7-b5c3-b838bf8ae83a)
+      ##
+      ![image](https://github.com/vinicius-campelo/lab2-ia900/assets/74797865/cadf6678-2fc2-48e0-84c7-0e8526e2ac31)
+      
+      
+
  > Ler texto no Vision Studio
 ##
  > Analisar imagens no Vision Studio
