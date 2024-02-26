@@ -35,11 +35,11 @@
 
 ##
 
-  - Detectar rostos no Vision Studio
+ >  Detectar rostos no Vision Studio
 ##
-  - Ler texto no Vision Studio
+ > Ler texto no Vision Studio
 ##
-  - Analisar imagens no Vision Studio
+ > Analisar imagens no Vision Studio
 ##
 
 
