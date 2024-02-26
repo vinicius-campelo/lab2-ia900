@@ -13,17 +13,33 @@
 
 
 ##
-### Configurações:
+> ### Configurações:
 ##
-#### Criar um recurso de serviços de IA do Azure
-#### Conectar seu recurso de serviço de IA do Azure ao Vision Studio
+   1. #### Criar um recurso de serviços de IA do Azure
+      - Abra o portal do Azure em https://portal.azure.com, entrando com a conta da Microsoft associada à sua assinatura do Azure.
+      - Clique no botão +Criar um recurso e procure serviços de IA do Azure. Selecione criar um plano de serviços de IA do Azure.
+         - Assinatura: sua assinatura do Azure.
+         - Grupo de recursos: selecione ou crie um grupo de recursos com um nome exclusivo.
+         - Região: Leste dos EUA.
+         - Nome: insira um nome exclusivo.
+         - Nível de preços: Standard S0.
+         - Ao marcar esta caixa, reconheço que li e entendi todos os termos abaixo: Selecionado.
+      - Selecione Revisar + criar e, em seguida, Criar e aguarde a conclusão da implantação.
+   3. #### Conectar seu recurso de serviço de IA do Azure ao Vision Studio
+      - Em seguida, conecte o recurso de serviços de IA do Azure provisionado acima ao Vision Studio.
+         1. Em outra guia do navegador, navegue até o Vision Studio em https://portal.vision.cognitive.azure.com.
+         2. Entre com sua conta e verifique se você está usando o mesmo diretório em que criou seu recurso de serviços de IA do Azure.
+         3. Na home page do Vision Studio, selecione Exibir todos os recursos no cabeçalho Introdução ao Vision.
+         4. Na página Selecione um recurso para trabalhar, passe o cursor do mouse sobre o recurso criado acima na lista e marque a caixa à esquerda do nome do recurso e selecione Selecionar como recurso padrão.
+         5. Feche a página de configurações selecionando o "x" no canto superior direito da tela.
+
 ##
 
-#### Detectar rostos no Vision Studio
+  - Detectar rostos no Vision Studio
 ##
-#### Ler texto no Vision Studio
+  - Ler texto no Vision Studio
 ##
-#### Analisar imagens no Vision Studio
+  - Analisar imagens no Vision Studio
 ##
 
 
