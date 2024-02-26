@@ -17,7 +17,7 @@
 ##
    1. #### Criar um recurso de serviços de IA do Azure
       - Abra o portal do Azure em https://portal.azure.com, entrando com a conta da Microsoft associada à sua assinatura do Azure.
-      - Clique no botão +Criar um recurso e procure serviços de IA do Azure. Selecione criar um plano de serviços de IA do Azure.
+      - Clique no botão *<b> + Criar um recurso </b>* e procure serviços de IA do Azure. Selecione criar um plano de serviços de IA do Azure.
          - Assinatura: sua assinatura do Azure.
          - Grupo de recursos: selecione ou crie um grupo de recursos com um nome exclusivo.
          - Região: Leste dos EUA.
