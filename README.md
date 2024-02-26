@@ -31,12 +31,20 @@
          2. Entre com sua conta e verifique se você está usando o mesmo diretório em que criou seu recurso de serviços de IA do Azure.
          3. Na home page do Vision Studio, selecione Exibir todos os recursos no cabeçalho Introdução ao Vision.
          4. Na página Selecione um recurso para trabalhar, passe o cursor do mouse sobre o recurso criado acima na lista e marque a caixa à esquerda do nome do recurso e selecione Selecionar como recurso padrão.
-         5. Feche a página de configurações selecionando o "x" no canto superior direito da tela.
+            ##
+            ![image](https://github.com/vinicius-campelo/lab2-ia900/assets/74797865/b54da42e-bcf8-445c-994a-8fa337587dfd)
+
+         6. Feche a página de configurações selecionando o "x" no canto superior direito da tela.
+            ##
+            ![image](https://github.com/vinicius-campelo/lab2-ia900/assets/74797865/1de1f476-c8aa-407f-9f77-cc0a1234663c)
+
 
 ##
 
  >  Detectar rostos no Vision Studio
 ##
+   1. Fiz esse priemiro teste com imagens extraidas do site: https://br.freepik.com/fotos-vetores-gratis/rosto pois são imagens publicas;
+   2. fiz download de três imagens e adicionei a pasta inputs;
  > Ler texto no Vision Studio
 ##
  > Analisar imagens no Vision Studio
