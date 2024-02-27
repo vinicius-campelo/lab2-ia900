@@ -44,20 +44,57 @@
  >  Detectar rostos no Vision Studio
 ##
    1. Fiz esse priemiro teste com imagens extraidas do site: https://br.freepik.com/fotos-vetores-gratis/rosto pois são imagens publicas;
-   2. fiz download de três imagens e adicionei a pasta inputs e o resultado do .json;
+   2. Adicionado a pasta com download de três imagens e adicionei a pasta inputs e o resultado do .json;
       ##
-      Teste Rosto01
+      [Figura 1: Teste Rosto01]
+      
       ![image](https://github.com/vinicius-campelo/lab2-ia900/assets/74797865/ecc666ef-f72e-410c-8d7a-8bc78a4290a9)
+      
+      <div align="center">Fonte: freepik.com, 2024.</div>
       ##
-      Teste Rosto02
+      [Figura 2: Teste Rosto02]
+      
       ![image](https://github.com/vinicius-campelo/lab2-ia900/assets/74797865/12bc8f0b-c184-4ae7-b5c3-b838bf8ae83a)
+      
+      <div align="center">Fonte: freepik.com, 2024.</div>
       ##
-      Teste Rosto03
+      [Figura 3: Teste Rosto03]
+      
       ![image](https://github.com/vinicius-campelo/lab2-ia900/assets/74797865/cadf6678-2fc2-48e0-84c7-0e8526e2ac31)
+      
+      <div align="center">Fonte: freepik.com, 2024.</div>
+      
       
       
 
  > Ler texto no Vision Studio
+   1. Adicionado a pasta com download de três imagens e adicionei a pasta inputs e o resultado do .json;
+   2. Fiz o primeiro teste com letra de um médico tirado do site: https://super.abril.com.br/mundo-estranho/por-que-medico-tem-letra-ruim
+      ##
+      [Texto 1: Letra de Médico]
+      Na tentativa de reconhecimento vi que as palavras em algum ponto não e possível entender.
+      ![image](https://github.com/vinicius-campelo/lab2-ia900/assets/74797865/f1bf95c7-1846-4efd-8ba1-258054e79e0e)
+       <div align="center">Fonte: super interessante, 2024.</div>
+
+
+   5. Esta imagem foi tirada do site Baú do Valentim: https://www.baudovalentim.net/a-escrita-a-mao-nao-pode-morrer/
+      ##
+      [Texto 2: Escrita a mão]
+      Textos com letra cursiva notei que o corte de passagem para outra linha não foi entendido.
+      ![image](https://github.com/vinicius-campelo/lab2-ia900/assets/74797865/70cb5792-75fd-4038-a9aa-892a739ea78c)
+      <div align="center">Fonte: Baú do Valentim, 2024.</div>
+
+
+   4. Esta imagem foi tirada do site ISTOÉ: https://istoe.com.br/106164_OS+BENEFICIOS+DE+ESCREVER+A+MAO/
+      ##
+      [Texto 3: Texto Simples]
+      Ja em um texto impresso de livros ou criado em aplicativos sua identificação foi satisfatória.
+      ![image](https://github.com/vinicius-campelo/lab2-ia900/assets/74797865/91e2961f-28c3-4667-ad28-5e6c668229a7)
+      <div align="center">Fonte: ISTOÉ PUBLICAÇÕES LTDA, 2024.</div>
+
+   
+      
+
 ##
  > Analisar imagens no Vision Studio
 ##
