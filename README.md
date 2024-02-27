@@ -68,7 +68,7 @@
       
 
  > Ler texto no Vision Studio
-   1. Adicionado a pasta com download de três imagens e adicionei a pasta inputs e o resultado do .json;
+   1. Adicionado a pasta com download de três imagens de texto e adicionei a pasta output;
    2. Fiz o primeiro teste com letra de um médico tirado do site: https://super.abril.com.br/mundo-estranho/por-que-medico-tem-letra-ruim
       ##
       [Texto 1: Letra de Médico]
@@ -97,6 +97,24 @@
 
 ##
  > Analisar imagens no Vision Studio
+   1. Adicionado a pasta com download de três imagens de aleatorias na pasta output;
+   2. Imagens extraidas do site: https://br.freepik.com/fotos-vetores-gratis/rosto pois são imagens publicas;
+      ##
+      [Imagem 1: rua com carros]
+      ![image](https://github.com/vinicius-campelo/lab2-ia900/assets/74797865/5dc9f262-8a25-435f-bc22-187c92e1f765)
+      <div align="center">Fonte: freepik.com, 2024.</div>
+
+      ##
+      [Imagem 2: pessoas]
+      não conseguiu verificar a diferença da moto e bicicleta!
+      ![image](https://github.com/vinicius-campelo/lab2-ia900/assets/74797865/1432eb12-8fe1-4a54-8477-6280eae5749f)
+      <div align="center">Fonte: freepik.com, 2024.</div>
+
+      ##
+      [Imagem 3: pessoas na calçada da fama]
+      ![image](https://github.com/vinicius-campelo/lab2-ia900/assets/74797865/74aeeda2-7036-45d0-b34e-fca1d6f0cb03)
+      <div align="center">Fonte: freepik.com, 2024.</div>
+
 ##
 
 
